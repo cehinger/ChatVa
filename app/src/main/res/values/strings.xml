@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat va?</string>
+    <string name="animal_default_name">Nom de votre animal</string>
+    <string name="animal_default_age">0</string>
+</resources>
